@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=EveaZerin" alt="Evea" /></p>
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=EveaZerin" alt="Evea" /></p>
 
 <!--
 **EveaZerin/EveaZerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
